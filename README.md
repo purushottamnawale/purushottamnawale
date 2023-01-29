@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with DBMS and server side programming.
 - 💬 Ask me about philosophy or psychology.
 - 📫 How to reach me: nawalepurushottam@gmail.com
-- 😄 Pronouns: 
 - ⚡ Fun fact: Size of Russia is greater than Pluto.
 
 <!--
