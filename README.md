@@ -8,6 +8,8 @@
 - 📫 How to reach me: nawalepurushottam@gmail.com
 - ⚡ Fun fact: Size of Russia is greater than Pluto.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=purushottamnawale&theme=highcontrast&show_icons=true&count_private=true)
+
 <!--
 **purushottamnawale/purushottamnawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
