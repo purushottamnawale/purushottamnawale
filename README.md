@@ -1,15 +1,16 @@
-<h1 align="center">Hi there 👋 </h1>
+<h1 align="center">Hi there 👋 , I'm Purushottam Nawale. </h1><br><hr>
 
 <!-- ### Hi there 👋 -->
 <p align="center">
-- 🔭 I’m currently working on Software Development Projects.
-- 🌱 I’m currently learning Data Structure & Algorithms.
-- 👯 I’m looking to collaborate on Web Development Projects.
-- 🤔 I’m looking for help with DBMS and server side programming.
-- 💬 Ask me about philosophy or psychology.
-- 📫 How to reach me: nawalepurushottam@gmail.com
-- ⚡ Fun fact: Size of Russia is greater than Pluto.
+- 🔭 I’m currently working on Software Development Projects.<br>
+- 🌱 I’m currently learning Data Structure & Algorithms.<br>
+- 👯 I’m looking to collaborate on Web Development Projects.<br>
+- 🤔 I’m looking for help with DBMS and server side programming.<br>
+- 💬 Ask me about philosophy or psychology.<br>
+- 📫 How to reach me: nawalepurushottam@gmail.com<br>
+- ⚡ Fun fact: Size of Russia is greater than Pluto.<br>
 </p>
+<hr>
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=purushottamnawale&theme=tokyonight&show_icons=true&count_private=true) -->
 
