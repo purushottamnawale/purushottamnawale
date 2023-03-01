@@ -1,5 +1,7 @@
-<p align="center">### Hi there 👋
+<h1 align="center">Hi there 👋 </h1>
 
+<!-- ### Hi there 👋 -->
+<p align="center">
 - 🔭 I’m currently working on Software Development Projects.
 - 🌱 I’m currently learning Data Structure & Algorithms.
 - 👯 I’m looking to collaborate on Web Development Projects.
