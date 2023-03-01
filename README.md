@@ -12,6 +12,9 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=purushottamnawale&layout=compact&theme=tokyonight)
 
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=purushottamnawale&theme=radical"/></p>
+
+
 <!--
 **purushottamnawale/purushottamnawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
