@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋 , I'm Purushottam Nawale. </h1><br><hr>
+<h1 align="center">Hi there 👋 , I'm Purushottam Nawale. </h1><br>
 
 <!-- ### Hi there 👋 -->
-<p align="center">
+<p>
 - 🔭 I’m currently working on Software Development Projects.<br>
 - 🌱 I’m currently learning Data Structure & Algorithms.<br>
 - 👯 I’m looking to collaborate on Web Development Projects.<br>
