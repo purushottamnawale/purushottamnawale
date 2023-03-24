@@ -9,7 +9,7 @@
 - 💬 Ask me about philosophy or psychology.<br>
 - 📫 How to reach me: nawalepurushottam@gmail.com<br>
 - ⚡ Fun fact: Size of Russia is greater than Pluto.<br>
-![visitor](https://komarev.com/ghpvc/?username=purushottamnawale&style=flat-square)
+![Visitor Count](https://profile-counter.glitch.me/{purushottamnawale}/count.svg)
 </p>
 <hr>
 
