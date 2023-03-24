@@ -8,12 +8,17 @@
 </p>
 <hr>
 
-
 ![](https://komarev.com/ghpvc/?username=purushottamnawale)
 
 
 <h1>Languages</h1>
-https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+<img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white></a>
+<img src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white></a>
+<img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white></a>
+<img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white></a>
+<img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white></a>
+<hr>
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=purushottamnawale&show_icons=true&locale=en&count_private=true&theme=tokyonight" width="470"/></P>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=purushottamnawale&theme=tokyonight"/></p>
