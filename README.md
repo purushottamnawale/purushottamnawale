@@ -12,7 +12,9 @@
 ![](https://komarev.com/ghpvc/?username=purushottamnawale)
 
 
-<h1 align="center">Stats</h1>
+<h1>Languages</h1>
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=purushottamnawale&show_icons=true&locale=en&count_private=true&theme=tokyonight" width="470"/></P>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=purushottamnawale&theme=tokyonight"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purushottamnawale&layout=compact&exclude_repo=PPL_Assignments&theme=tokyonight"/></p>
