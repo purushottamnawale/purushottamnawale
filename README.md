@@ -10,7 +10,7 @@
 - 📫 How to reach me: nawalepurushottam@gmail.com<br>
 - ⚡ Fun fact: Size of Russia is greater than Pluto.<br>
 </p>
-![](https://komarev.com/ghpvc/?username=purushottamnawale)
+https://komarev.com/ghpvc/?username=purushottamnawale
 <hr>
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=purushottamnawale&theme=tokyonight&show_icons=true&count_private=true) -->
