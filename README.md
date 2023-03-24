@@ -9,16 +9,12 @@
 - 💬 Ask me about philosophy or psychology.<br>
 - 📫 How to reach me: nawalepurushottam@gmail.com<br>
 - ⚡ Fun fact: Size of Russia is greater than Pluto.<br>
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=purushottamnawale&theme=tokyonight&show_icons=true&count_private=true)
-
 </p>
+![](https://komarev.com/ghpvc/?username=purushottamnawale)
 <hr>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=purushottamnawale&theme=tokyonight&show_icons=true&count_private=true)
 
-<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=purushottamnawale&layout=compact&theme=tokyonight) -->
 
-![Visitor Count](https://profile-counter.glitch.me/{purushottamnawale}/count.svg)
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=purushottamnawale&show_icons=true&locale=en&count_private=true&theme=tokyonight" width="470"/></P>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=purushottamnawale&theme=tokyonight"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purushottamnawale&layout=compact&exclude_repo=PPL_Assignments&theme=tokyonight"/></p>
