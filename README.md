@@ -15,7 +15,8 @@
 <a href="mailto:nawalepurushottam@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/purushottamnawale/" target="_blank" rel="noreferrer"  > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/> </a>
 <a href="https://auth.geeksforgeeks.org/user/purushottamnawale/" target="_blank" rel="noreferrer"  > <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a>
-<a href="https://www.kaggle.com/purushottamnawale" target="_blank" rel="noreferrer"  > <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> </a> 
+<a href="https://www.kaggle.com/purushottamnawale" target="_blank" rel="noreferrer"  > <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> </a>
+<a href="https://www.sololearn.com/profile/25352930" target="_blank" rel="noreferrer"  > <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/> </a>
 <a href="[https://www.linkedin.com/in/purushottamnawale/](https://www.hackerrank.com/nawalepb)" target="_blank" rel="noreferrer"  > <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a> 
 
 
