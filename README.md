@@ -10,14 +10,12 @@
 
 ![](https://komarev.com/ghpvc/?username=purushottamnawale)
 
-
 <div>
 <h3>Connect with me:</h3>
 <a href="mailto:nawalepurushottam@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/purushottamnawale/"><img alt="Gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="discordapp.com/users/755837203564724264"><img alt="Gmail" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/17721722/ph0en1x"><img alt="Gmail" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-
 </br>
 </div>
 
@@ -38,7 +36,6 @@
   <img src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
 </div>
 
-
 <div>
 <h3>Web Development:</h3>
   <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
@@ -47,13 +44,10 @@
   <img src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white>
   <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
 </div>
-<hr>
-
 
 <div>
 <h3>Database:</h3>
   <img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white>
-  
 </div>
 <hr>
 
