@@ -4,15 +4,25 @@
 - 🔭 I’m currently working on Software Development Projects.<br>
 - 🤔 I’m looking to collaborate on DBMS and Server Side Programming.<br>
 - 💬 Ask me about philosophy or psychology.<br>
-- ⚡ Fun fact: Size of Russia is greater than Pluto.<br>
+- ⚡ Fun fact: Surface area of Russia is greater than Pluto.<br>
 </p>
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=purushottamnawale)
 
+
 <div>
 <h3>Connect with me:</h3>
 <a href="mailto:nawalepurushottam@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/purushottamnawale/"><img alt="Gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="discordapp.com/users/755837203564724264"><img alt="Gmail" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/17721722/ph0en1x"><img alt="Gmail" src="https://aleen42.github.io/badges/src/stackoverflow.svg"/></a>
+
+</br>
+</div>
+
+<div>
+<h3>Profiles:</h3>
 <a href="https://auth.geeksforgeeks.org/user/purushottamnawale/" target="_blank" rel="noreferrer"  > <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a>
 <a href="https://www.kaggle.com/purushottamnawale" target="_blank" rel="noreferrer"  > <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> </a>
 <a href="https://www.sololearn.com/profile/25352930" target="_blank" rel="noreferrer"  > <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/> </a>
