@@ -3,7 +3,7 @@
 <p>
 - 🔭 I’m currently working on Software Development Projects.<br>
 - 🤔 I’m looking to collaborate on DBMS and Server Side Programming.<br>
-- 💬 Ask me about philosophy or psychology.<br>
+- 💬 Ask me about philosophy or Psychology.<br>
 - ⚡ Fun fact: Surface area of Russia is greater than Pluto.<br>
 </p>
 <hr>
