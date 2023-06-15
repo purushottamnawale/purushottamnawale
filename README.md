@@ -18,7 +18,6 @@
 <a href="https://stackoverflow.com/users/17721722/ph0en1x"><img alt="Gmail" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 </br>
 </div>
-
 <div>
 <h3>Profiles:</h3>
 <a href="https://auth.geeksforgeeks.org/user/purushottamnawale/" target="_blank" rel="noreferrer"  > <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a>
