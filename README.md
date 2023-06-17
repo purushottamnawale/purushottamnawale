@@ -8,7 +8,7 @@
 </p>
 <hr>
 ![](https://komarev.com/ghpvc/?username=purushottamnawale)
-<p></p>
+
 <div>
 <h3>Connect with me:</h3>
 <a href="mailto:nawalepurushottam@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
